@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b2ba7378-6cd1-4223-9e50-1d6eb605b37d
-  WEBAPP-NAME: az400-webapp-testgithub_Actinos
+  WEBAPP-NAME: az400-webapp-testgithub-actinos
 
 
 jobs:
